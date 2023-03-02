@@ -1,1 +1,2 @@
 Developed a responsive web application that provides information about Marvel characters, comics, and events using Marvel's REST API. Implemented the front-end of the application using React.js and Bootstrap, and utilized features of the Marvel API to fetch lists of characters, comics, and events, as well as enable search functionality for specific characters and comics. Integrated libraries including Axios, Redux, and React Router to enhance the application's functionality.
+https://jalenmarvel.netlify.app/
